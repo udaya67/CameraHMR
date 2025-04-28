@@ -16,3 +16,4 @@ omegaconf>=2.1
 fvcore
 matplotlib-inline
 git+https://github.com/facebookresearch/detectron2.git
+streamlit
